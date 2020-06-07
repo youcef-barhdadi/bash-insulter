@@ -8,6 +8,10 @@ print_message () {
 	"اللهم صلي علي محمد وعلي ال محمد"
 	"سبحان الله"
 	"سبحان الله والحمد الله"
+	"سبحان ربي العظيم"
+	"حمد الله"
+	"اللهم اهدنا فيمن هديت"
+	"سبحان الله وبحمده سبحان الله العظيم"
     )
 
     # If CMD_NOT_FOUND_MSGS array is populated use those messages instead of the defaults
