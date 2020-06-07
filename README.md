@@ -1,7 +1,5 @@
-# bash-insulter
-Randomly insults the user when typing wrong command.
-
-Change insults as needed :)
+# bash-insulter_ISLAMIC_VIRSION
+# 
 
 ```bash
 noob@bender:~ $ sl
